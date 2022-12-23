@@ -1,1 +1,1 @@
-Hello Git and Github
+All Codecademy Capstone Projects as I learn.
