@@ -1,0 +1,2 @@
+# Codecademy
+All Codecademy Projects
